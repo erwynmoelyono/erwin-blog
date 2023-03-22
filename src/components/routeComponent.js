@@ -1,4 +1,4 @@
-import Home from "./Home";
+import MainContent from "./MainContent";
 import Navbar from "./Navbar";
 
-export { Home, Navbar };
+export { MainContent, Navbar };
