@@ -1,0 +1,39 @@
+{
+    "blogs":[
+        {
+            "title": "My New Website",
+            "body": "lorem...",
+            "author": "mario",
+            "link": "asd",
+            "id": 1
+          },
+          {
+            "title": "My New Website",
+            "body": "lorem...",
+            "author": "mario",
+            "link": "asd",
+            "id": 2
+          },
+          {
+            "title": "My New Website",
+            "body": "lorem...",
+            "author": "Erwin",
+            "link": "asd",
+            "id": 3
+          },
+          {
+            "title": "My New Website",
+            "body": "lorem...",
+            "author": "Nathan",
+            "link": "asd",
+            "id": 4
+          },
+          {
+            "title": "My New Website",
+            "body": "lorem...",
+            "author": "Ellen",
+            "link": "asd",
+            "id": 5
+          }
+    ]
+}
